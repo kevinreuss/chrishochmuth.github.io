@@ -187,6 +187,20 @@
      text-align: center;
      clear:both;
 }
+
+
+
+li {
+     color:#000000;
+     font:normal 15px Arial, Helvetica, sans-serif;
+     margin:0px;
+     padding-bottom:10px;
+     text-align: justify;
+}
+
+
+
+
  h1 {
      color:#000000;
      font:normal 15px Arial, Helvetica, sans-serif;
